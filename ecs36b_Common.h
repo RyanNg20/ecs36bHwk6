@@ -6,6 +6,7 @@
 
 #include <strings.h>
 #include <string>
+#include <cstring>
 #include <iostream>
 #include <stdio.h>
 #include <iomanip>

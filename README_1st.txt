@@ -1,4 +1,9 @@
 
+Ryan Ng: 920482591
+Kevin Bao: 919947717
+Aiman A: 920740068
+Sun Woo Da Costa: 918304047
+
 The source code files and Makefile under this directory was used during lectures on 11/23/2022.
 
 This is the reference implementation for HW#6. Please see the ecs36b_hw6.json for the input arguments for all four functions --

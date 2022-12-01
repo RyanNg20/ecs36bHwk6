@@ -191,3 +191,683 @@
 	}
 }
 
+[0000] {
+   "arg action" : "obtain",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "00000000",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "82850_0000",
+      "remaining_score" : 100,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "brick",
+   "result" : {
+      "check_word" : "##___",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 99,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "jumpy",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "glent",
+   "result" : {
+      "check_word" : "____o",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "____o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 97,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "vozhd",
+   "result" : {
+      "check_word" : "_o_o_",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_o_o_",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "waqfs",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_____",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 95,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "booth",
+   "result" : {
+      "check_word" : "#_###",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "booth",
+               "result" : "#_###",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "82850_0000",
+   "arg my_guess" : "broth",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "booth",
+               "result" : "#_###",
+               "time" : "0000"
+            },
+            {
+               "guess" : "broth",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "submit",
+   "arg game_id" : "82850_0000",
+   "arg team_name" : "Nobody",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "82850_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "##___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "booth",
+               "result" : "#_###",
+               "time" : "0000"
+            },
+            {
+               "guess" : "broth",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "obtain",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "00000000",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "97001_0000",
+      "remaining_score" : 100,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "brick",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 99,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "jumpy",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "glent",
+   "result" : {
+      "check_word" : "_o_oo",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "_o_oo",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 97,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "vozhd",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "_o_oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_____",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "waqfs",
+   "result" : {
+      "check_word" : "_#___",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "_o_oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_#___",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 95,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "FALSE",
+   "result" : {
+      "check_word" : "_#o__",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "_o_oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_#___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "false",
+               "result" : "_#o__",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "97001_0000",
+   "arg my_guess" : "natal",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "_o_oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_#___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "false",
+               "result" : "_#o__",
+               "time" : "0000"
+            },
+            {
+               "guess" : "natal",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "submit",
+   "arg game_id" : "97001_0000",
+   "arg team_name" : "Nobody",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "97001_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "brick",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "jumpy",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "glent",
+               "result" : "_o_oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "vozhd",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "waqfs",
+               "result" : "_#___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "false",
+               "result" : "_#o__",
+               "time" : "0000"
+            },
+            {
+               "guess" : "natal",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : true,
+      "scores" : [ 94 ],
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+

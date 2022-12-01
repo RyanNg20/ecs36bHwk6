@@ -1,0 +1,46 @@
+{
+   "check_word" : "#####",
+   "game_id" : "82850_0000",
+   "guesses" : {
+      "data" : [
+         {
+            "guess" : "brick",
+            "result" : "##___",
+            "time" : "0000"
+         },
+         {
+            "guess" : "jumpy",
+            "result" : "_____",
+            "time" : "0000"
+         },
+         {
+            "guess" : "glent",
+            "result" : "____o",
+            "time" : "0000"
+         },
+         {
+            "guess" : "vozhd",
+            "result" : "_o_o_",
+            "time" : "0000"
+         },
+         {
+            "guess" : "waqfs",
+            "result" : "_____",
+            "time" : "0000"
+         },
+         {
+            "guess" : "booth",
+            "result" : "#_###",
+            "time" : "0000"
+         },
+         {
+            "guess" : "broth",
+            "result" : "#####",
+            "time" : "0000"
+         }
+      ]
+   },
+   "remaining_score" : 94,
+   "score_distributed" : false,
+   "word" : "broth"
+}

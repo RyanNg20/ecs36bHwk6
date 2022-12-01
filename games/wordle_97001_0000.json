@@ -1,0 +1,46 @@
+{
+   "check_word" : "#####",
+   "game_id" : "97001_0000",
+   "guesses" : {
+      "data" : [
+         {
+            "guess" : "brick",
+            "result" : "_____",
+            "time" : "0000"
+         },
+         {
+            "guess" : "jumpy",
+            "result" : "_____",
+            "time" : "0000"
+         },
+         {
+            "guess" : "glent",
+            "result" : "_o_oo",
+            "time" : "0000"
+         },
+         {
+            "guess" : "vozhd",
+            "result" : "_____",
+            "time" : "0000"
+         },
+         {
+            "guess" : "waqfs",
+            "result" : "_#___",
+            "time" : "0000"
+         },
+         {
+            "guess" : "false",
+            "result" : "_#o__",
+            "time" : "0000"
+         },
+         {
+            "guess" : "natal",
+            "result" : "#####",
+            "time" : "0000"
+         }
+      ]
+   },
+   "remaining_score" : 94,
+   "score_distributed" : true,
+   "word" : "natal"
+}
